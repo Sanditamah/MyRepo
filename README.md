@@ -9,7 +9,7 @@
 
 ## My Top Frameworks / Library
 
-![Codeigniter](https://github.com/Sanditamah/Sanditamah/commit/0b3d1187123d44e828fbe2e8d1de360bf1bb0f0f)  
+![CodeIgniter](https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png)  
 ![Next.js](https://raw.githubusercontent.com/Sanditama/Sanditamah/codeigniter.png) Next.js
 ![Bootstrap](https://getbootstrap.com/docs/5.3/assets/img/bootstrap-logo.svg)
 
