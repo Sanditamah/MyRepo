@@ -7,5 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanditamah&layout=compact)](https://github.com/Sanditamah/github-readme-stats)  
 
 ## My Top Frameworks / Library
-<img alt="CodeIgniter" width="100" src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" />  
-<img alt="Bootstrap" width="100" src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap.png" />  
+<img align="left" alt="CodeIgniter" width="100" src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" />  
+<img align="left" alt="Bootstrap" width="100" src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap.png" />  
