@@ -9,10 +9,8 @@
 
 ## My Top Frameworks / Library
 
-![CodeIgniter](https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png)  
-![Next.js](https://raw.githubusercontent.com/Sanditama/Sanditamah/codeigniter.png) Next.js
-![Bootstrap](https://getbootstrap.com/docs/5.3/assets/img/bootstrap-logo.svg)
-
+<img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" alt="CodeIgniter" width="200"/> CodeIgniter  
+<img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap.png" alt="Bootstrap" width="200"/> Bootstrap  
 
 ## Github Stats
 ![Sandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanditamah&show_icons=true&theme=radical)
