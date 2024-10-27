@@ -1,4 +1,6 @@
 # Welcome to My Github Repo!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanditamah&label=Profile%20views&color=0e75b6&style=flat" alt="wirapratamaz" /> </p>  
+
 👋 Hai, It's me Sandi Tamalia Herman!  
 🔍 I’m interested in PHP & SQL  
 📚 I’m currently learning JavaScript, Laravel, Vue  
