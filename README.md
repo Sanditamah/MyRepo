@@ -9,8 +9,9 @@
 
 ## My Top Frameworks / Library
 
-![CodeIgniter](https://codeigniter.com/images/ci_logo.png) CodeIgniter  
-![Bootstrap](https://getbootstrap.com/docs/5.3/assets/img/bootstrap-logo.svg) Bootstrap
+![CodeIgniter](https://raw.githubusercontent.com/bcit-ci/CodeIgniter/develop/userguide3/_images/ci_logo.png)  
+![Bootstrap](https://getbootstrap.com/docs/5.3/assets/img/bootstrap-logo.svg)
+
 
 ## Github Stats
 ![Sandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanditamah&show_icons=true&theme=radical)
