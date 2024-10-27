@@ -9,17 +9,11 @@
 
 ## My Top Frameworks / Library
 
-<div style="display: flex; align-items: center;">
-  
-  <div style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" alt="CodeIgniter" width="200"/>
-  </div>
-  
-  <div style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap.png" alt="Bootstrap" width="200"/>
-  </div>
-  
-</div>
+| Framework    | Logo                                                         |
+|--------------|--------------------------------------------------------------|
+| CodeIgniter  | <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" alt="CodeIgniter" width="100"/> |
+| Bootstrap    | <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap.png" alt="Bootstrap" width="100"/> |
+
 
 ## Github Stats
 ![Sandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanditamah&show_icons=true&theme=radical)
