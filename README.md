@@ -9,7 +9,7 @@
 
 ## My Top Frameworks / Library
 
-![CodeIgniter](https://raw.githubusercontent.com/bcit-ci/CodeIgniter/develop/userguide3/_images/ci_logo.png)  
+![Codeigniter](https://raw.githubusercontent.com/Sanditamah/codeigniter.png)  
 ![Bootstrap](https://getbootstrap.com/docs/5.3/assets/img/bootstrap-logo.svg)
 
 
