@@ -10,6 +10,8 @@
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 20px;"
     <img align="left" alt="Codeigniter" width="200" src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" />  
+  </div>
+  <div style="margin-right: 20px;"  
     <img align="left" alt="Bootstrap" width="200" src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap.png" />  
   </div>
 </div>
