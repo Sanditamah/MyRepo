@@ -1,6 +1,5 @@
 # Welcome to My Github Repo!
 👋 Hai, It's me Sandi Tamalia Herman!
-
 🔍 I’m interested in PHP & SQL  
 📚 I’m currently learning JavaScript, Laravel, Vue  
 
@@ -9,10 +8,17 @@
 
 ## My Top Frameworks / Library
 
-| Framework    | Logo                                                         |
-|--------------|--------------------------------------------------------------|
-| CodeIgniter  | <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" alt="CodeIgniter" width="100"/> |
-| Bootstrap    | <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap.png" alt="Bootstrap" width="100"/> |
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <p>CodeIgniter</p>
+    <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/codeigniter.png" alt="CodeIgniter" width="200"/>
+  </div>
+  
+  <div style="margin-right: 20px;">
+    <p>Bootstrap</p>
+    <img src="https://raw.githubusercontent.com/Sanditamah/Sanditamah/main/bootstrap-logo.png" alt="Bootstrap" width="200"/>
+  </div>
+</div>
 
 
 ## Github Stats
